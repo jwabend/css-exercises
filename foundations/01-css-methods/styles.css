@@ -6,3 +6,8 @@ div {
     font-size: 25px;
     font-family: "Tahoma", serif;
 }
+
+p {
+    background-color: green;
+    color: white;
+}
