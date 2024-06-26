@@ -1,1 +1,11 @@
 /* Add CSS Styling */
+
+.avatar.distorted {
+    width: 200px;
+    height: 350px;
+}
+
+.avatar.proportioned {
+    height: 250px;
+    width: 300px    ;
+}

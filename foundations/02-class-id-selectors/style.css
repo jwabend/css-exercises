@@ -1,0 +1,19 @@
+.odds {
+    background-color:  pink;
+    
+}
+
+.adjust-font-size{
+    font-size: 26px;
+}
+
+#firstID{
+    color: blue;
+    font-size: 24px;
+}
+
+#secondID{
+    background-color: green;
+    font-weight: bold;
+    
+}
